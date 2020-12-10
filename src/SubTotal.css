@@ -1,4 +1,5 @@
 .subTotal {
+<<<<<<< HEAD
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -25,4 +26,7 @@
   margin-top: 10px;
   border-color: #a88734 #9c7e31 #846a29;
   color: #111;
+=======
+  margin-left: 5px;
+>>>>>>> 81c42341291d077c8bf0d3b7fa0b52d89f1bbdb8
 }
